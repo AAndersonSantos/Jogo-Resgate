@@ -1,7 +1,9 @@
 <h1 align="center">🎮 JOGO RESGATE </h1>
 
+<h2 align="center"><a href="https://aandersonsantos.github.io/Jogo_Resgate/">🚀 Clique Aqui Para Jogar 🚀</a></h2>
+
 <h2 align="center">👁‍🗨👁‍🗨</h2>
-<h3 align="center">⬇️Demonstração Do Projeto⬇️</h3>
+<h3 align="center">⬇️Demonstração Do Jogo⬇️</h3>
 <p>
 <h1 align="center"><img src="img/jogo_resgate.gif"></h1>
 
@@ -31,10 +33,12 @@
 ```
 #Para fazer clone do repositório ultilizando git use a linha de comando abaixo:
 
+git clone https://github.com/AAndersonSantos/Jogo_Resgate.git
+
 ```
 
 ---
 
 ## 📝**Licença Do Projeto**
 
-[MIT]()
+[MIT](https://github.com/AAndersonSantos/Jogo_Resgate/blob/main/LICENSE)
