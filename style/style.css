@@ -6,14 +6,13 @@
 h1 {
 	font-family:Titulo;
 	font-size:40px;
-	color:#603A03;
+	color: #603A03;
 }
 
 *{
 	padding: 0;
 	margin: 0;
-	overflow: hidden;
-	
+	overflow: hidden;	
 		
 }
 
@@ -76,6 +75,12 @@ h1 {
 	text-align:center;
 	padding:10px;
 	padding-top: 30px;
+	border: solid 2px #603A03;
+}
+
+#inicio:hover{
+    transform: scale(0.98);
+    cursor: pointer;
 }
 
 .anima1 {
@@ -221,7 +226,7 @@ h1 {
 	height: 50px;
 	position: absolute;
 	left: 15px;
-	top: 610px;
+	top: 590px;
 }
 
 h2 {
@@ -247,7 +252,7 @@ h3 {
 
 #fim {
 	width:350px;
-	height:160px;
+	height:130px;
 	background-color: #FFF;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 20px;
@@ -255,6 +260,11 @@ h3 {
     margin-right:auto;
  	margin-top:100px;
 	text-align:center;
-	padding-top:90px;
+	padding-top:30px;
+	border: solid 2px #603A03;
+}
 
+#fim:hover{
+    transform: scale(0.98);
+    cursor: pointer;
 }
