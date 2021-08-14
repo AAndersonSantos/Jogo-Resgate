@@ -19,7 +19,7 @@
 
 ---
 
-## 💻**Tecnologias Ultilizadas**
+## 💻**Tecnologias Utilizadas**
 
 * [Html](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
